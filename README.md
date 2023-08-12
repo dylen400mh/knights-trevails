@@ -1,4 +1,4 @@
-# Knight Trevails
+# Knights Trevails
 
 ## Overview
 
