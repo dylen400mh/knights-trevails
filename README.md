@@ -12,5 +12,5 @@ Given a starting square `[x1, y1]` and an ending square `[x2, y2]`, the `knightM
 3. From the project directory, simply run the following command:
 `node index.js`
 ## Notes
-This project uses Breadth-First Search (BFS) to find the shortest path.
-The implementation ensures that all knight moves stay within the bounds of the chessboard.
+- This project uses Breadth-First Search (BFS) to find the shortest path.
+- The implementation ensures that all knight moves stay within the bounds of the chessboard.
