@@ -13,7 +13,8 @@ Given a starting square `[x1, y1]` and an ending square `[x2, y2]`, the `knightM
 `node index.js`
 The Output should look as follows:
 ```plaintext
-You made it in 3 moves!  Here's your path:
+  > knightMoves([3,3],[4,3])
+  => You made it in 3 moves!  Here's your path:
     [3,3]
     [4,5]
     [2,4]
