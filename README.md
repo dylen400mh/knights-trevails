@@ -16,7 +16,7 @@ Given a starting square `[x1, y1]` and an ending square `[x2, y2]`, the `knightM
 const knightMoves = require('./knightMoves'); // Replace with your actual file path
 
 console.log(knightMoves([0,0], [1,2])); // Output: [[0,0],[1,2]]
-
+```
 ## Notes
 This project uses Breadth-First Search (BFS) to find the shortest path.
 The implementation ensures that all knight moves stay within the bounds of the chessboard.
