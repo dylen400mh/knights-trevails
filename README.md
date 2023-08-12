@@ -12,11 +12,13 @@ Given a starting square `[x1, y1]` and an ending square `[x2, y2]`, the `knightM
 3. From the project directory, simply run the following command:
 `node index.js`
 The Output should look as follows:
-`You made it in 3 moves!  Here's your path:
+```plaintext
+You made it in 3 moves!  Here's your path:
     [3,3]
     [4,5]
     [2,4]
-    [4,3]`
+    [4,3]
+```
 ## Notes
 - This project uses Breadth-First Search (BFS) to find the shortest path.
 - The implementation ensures that all knight moves stay within the bounds of the chessboard.
